@@ -1,4 +1,4 @@
-#**Core Features:**
+# **Core Features:**
 **File Opening (open)**
 
 Prompts the user to enter a filename.
